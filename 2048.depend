@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1498465184 source:c:\users\acer\desktop\2048\main.cpp
+	<iostream>
+	<cstdio>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<ctime>
+
